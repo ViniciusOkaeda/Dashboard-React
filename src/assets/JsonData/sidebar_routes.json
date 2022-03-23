@@ -1,0 +1,17 @@
+[
+    {
+        "display_name": "Monitoring Home",
+        "route": "/",
+        "icon": "bx bx-category-alt"
+    },
+    {
+        "display_name": "Channels",
+        "route": "/customers",
+        "icon": "bx bx-user-pin"
+    },
+    {
+        "display_name": "Configurações",
+        "route": "/settings",
+        "icon": "bx bx-cog"
+    }
+]
